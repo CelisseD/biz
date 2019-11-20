@@ -1,0 +1,13 @@
+.brand-logo {
+    font-family: "Homemade Apple", cursive;
+    margin-left: 20px;
+    margin-top: 5px;
+};
+
+body {
+    background: pink;
+};
+
+.nav-link {
+    font-family: "Alata", sans-serif;
+};
